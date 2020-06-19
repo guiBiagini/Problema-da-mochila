@@ -1,2 +1,3 @@
 # Problema-da-mochila
 Trabalho de PAA
+3) Problema da mochila. Dada uma mochila de capacidade máxima C e um conjunto de N itens, cada um com um valor V e um peso P, encontrar o subconjunto de itens que possa ser levado na mochila de modo a maximizar o valor transportado, sem exceder a capacidade permitida. As soluções devem ser apresentadas utilizando força bruta, algoritmo guloso e programação dinâmica, conforme estudado nas aulas. O grupo pode usar o gerador de conjuntos aleatórios fornecidos no material da disciplina.  As implementações devem investigar: (a) o tempo necessário para resolver cada instância do problema proposto e (b) o tamanho do maior conjunto possível com solução fornecida no tempo máximo de 5 segundos. 
